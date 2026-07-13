@@ -19,7 +19,7 @@ A Python-based data analytics project that explores Air Quality Index (AQI) tren
 - Seaborn
 - Jupyter Notebook
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone https://github.com/akkusochill/MINI-PROJECT.git
